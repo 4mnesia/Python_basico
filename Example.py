@@ -1,0 +1,22 @@
+Chelin = float(0.21)
+Dolar = float(801.33)
+Euro = float(858.18)
+Yen = float(5.71)
+Rublo = float(9.94)
+Libra = float(990.09)
+Franco_suizo = float(885.83)
+Sol = float(218.19)
+print("Convertidor de dinero")
+
+while opcion != 9:
+    print("1.- Dolar")
+    print("2.- Euro")
+    print("3.- Yenes")
+    print("4.- Libras")
+    print("5.- Rublos")
+    print("6.- Franco suizo")
+    print("7.- Soles")
+    print("8.- Chelín")
+    print("9.- Exit/Salir")
+    opcion = 0
+    opcion = int(input("Selecione una opcion: "))
