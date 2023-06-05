@@ -13,3 +13,6 @@ for y in range(10):
         if arr[y][x]==numero:
             arr[y][x]= 0 
 print(arr)
+#slice 
+#start:stop:step 
+print(arr[3:6:,::])
