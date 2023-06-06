@@ -15,6 +15,6 @@ for y in range(10):
 print(arr)
 #slice 
 #start:stop:step 
-print(arr[3:6:,0:5:])
+print(arr[4:6:,0:5:])
 
 #esto es para estudiar
