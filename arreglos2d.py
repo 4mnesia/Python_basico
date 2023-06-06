@@ -16,3 +16,5 @@ print(arr)
 #slice 
 #start:stop:step 
 print(arr[3:6:,0:5:])
+
+#esto es para estudiar
