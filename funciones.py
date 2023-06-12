@@ -50,3 +50,12 @@ def calcularLista():
         total+=i
     return total
 #sumaLista = calcularLista()
+def calcularLista():
+    total = 0 
+    for i in lista:
+        total+=i
+    return total
+
+sumaLista = calcularLista()
+
+print(f"La suma de todos los valores de la lista es: {calcularLista()}")
