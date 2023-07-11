@@ -1,4 +1,4 @@
-#palabras reservadas
+"""#palabras reservadas
 #if en python
 mi_edad = int(input("¿Que edad tengo?: ")) 
 if (mi_edad >= 18):
@@ -298,3 +298,9 @@ print("Arreglo antiguo: "+ str(array_datos[2]))
 array_datos[2][1] = 25
 print("Arreglo nuevo: "+ str(array_datos[2]))
 #si, porque se modifica
+"""
+
+#importante= el return es para devolver la funcion 
+def multi(a,b):
+    return a*b
+print(multi(10,100))
