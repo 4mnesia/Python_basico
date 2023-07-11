@@ -298,4 +298,3 @@ print("Arreglo antiguo: "+ str(array_datos[2]))
 array_datos[2][1] = 25
 print("Arreglo nuevo: "+ str(array_datos[2]))
 #si, porque se modifica
-#jhjihuiygigu
